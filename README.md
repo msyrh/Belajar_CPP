@@ -1,12 +1,11 @@
 # Belajar_CPP
 <p><h1>Assalamu'alaikum Warahmatullohi Wabarokatuh  </h1></p>
-<p><h2>File ini Merupakan Hasil Pengerjaan Tugas Algoritma dan Pemrograman 1 </h2></p>
-https://youtu.be/qqWZsE8Cab8 
+
 <p>Adapun link Youtube nya masing masing penjelasan sebagai berikut : <br>
 cahnnel <br>
 https://www.youtube.com/channel/UCRUoBPNIO_oOmqHxAv-bkUg <br><br>
 
-slide Algt3<br>
+slide Algo3<br>
 1.menghitung Luas Persegi Panjang<br>
 https://www.youtube.com/watch?v=ixCimMMjJ1k <br>
 2.Menghitung luas lingkaran<br>
@@ -26,7 +25,7 @@ https://www.youtube.com/watch?v=ax1z57xu1as&t=191s  <br>
 9.Menghitung gaji Karyawan (5000/jam) <br>
 https://youtu.be/3SgszoxubiE     <br>
    
-slide Algt5 <br>
+slide Algo5 <br>
 10.Menampilkan Angka menggunakan Looping (while,do while dan for) <br>
 https://youtu.be/zJL87lMvAHg     <br>
 11.Menuliskan teks Lagu anak ayam turun tinggal induknya <br>
@@ -40,7 +39,7 @@ https://youtu.be/uXsOoltf5mU     <br>
 15.Membuat program perkalian 2 bilangan tanpa menggunakan operator kali (*)<br>
 https://youtu.be/naynOiinUNI      <br>
 
-algt 7 <br>
+algo 7 <br>
 16.fungsi:Membuat program fungsi menampilkan tulisan sebanyak n<br>
 https://www.youtube.com/watch?v=7pCtCCEkRMk <br>
 17.fungsi:menjumlah kurang bagi dan kali 2  bilangan<br>
@@ -58,7 +57,7 @@ https://www.youtube.com/watch?v=S7fZS_L9vac <br>
 23.fungsi:menyederhanakan b/c menjadi A b/c <br>
 https://www.youtube.com/watch?v=yoBsGrVFOOg <br>
 
-slide 8 <br>
+algo 8 <br>
 24.variable : pengenalan variabel <br>
 https://youtu.be/FznEuyLOVDQ <br>
 25. variable : #pengiriman parameter by value  c++ (1) <br>
@@ -77,7 +76,7 @@ https://youtu.be/TFUGFx9bfh8 <br>
 https://youtu.be/ONXjqs6toN4
 <br>
 
-slide 9 <br>
+algo 9 <br>
 32. menyalin array <br>
 https://youtu.be/8GXCjEOxMbA <br>
 33. #array : #membalik aray #c++ <br>
